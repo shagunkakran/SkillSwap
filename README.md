@@ -28,10 +28,6 @@ SkillSwap allows users to trade skills directly, making learning accessible, aff
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: (agar use kiya hai to likh dena, like Node.js)
-
-Database: (agar hai to mention karo)
-
 📈 Future Scope
 
 AI-based skill matching
